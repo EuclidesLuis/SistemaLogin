@@ -1,0 +1,3 @@
+Carlos;senha789;35;Amil
+Ana;abc123;28;
+Pedro;pedro2024;42;Unimed

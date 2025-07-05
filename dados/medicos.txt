@@ -1,0 +1,2 @@
+MED-001;Dr. Silva;cardio123;Cardiologia;Amil, Bradesco Saúde
+MED-002;Dra. Costa;orto456;Ortopedia;SulAmérica
